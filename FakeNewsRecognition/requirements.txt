@@ -1,0 +1,15 @@
+voluptuous
+flask
+keras
+gensim
+numpy
+peewee
+newspaper3k
+ujson
+pandas
+tqdm
+scrapy
+python-dotenv
+xlrd
+pybloom_live
+embeddings
