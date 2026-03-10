@@ -1,4 +1,4 @@
-# Fake News Recognition
+# Fake News Recognition System ML
 
 This repository contains a legacy end-to-end fake news classification project. The codebase combines:
 
